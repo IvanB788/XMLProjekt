@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<podaci>
+<korisnik>
+	<ime>Ivan</ime>
+    <prezime>Horvat</prezime>
+	<broj>1234567887654321</broj>
+	<datum>01/22</datum>
+	<kontrolni_broj>123</kontrolni_broj>
+</korisnik>
+<korisnik>
+	<ime>Marija</ime>
+    <prezime>Ivić</prezime>
+	<broj>8765432112345678</broj>
+	<datum>02/23</datum>
+	<kontrolni_broj>345</kontrolni_broj>
+</korisnik>
+<korisnik>
+	<ime>Marko</ime>
+    <prezime>Marić</prezime>
+	<broj>1234876543215678</broj>
+	<datum>03/24</datum>
+	<kontrolni_broj>567</kontrolni_broj>
+</korisnik>
+<korisnik>
+	<ime>Lucija</ime>
+    <prezime>Horvatek</prezime>
+	<broj>8765123456784321</broj>
+	<datum>04/25</datum>
+	<kontrolni_broj>789</kontrolni_broj>
+</korisnik>
+</podaci>

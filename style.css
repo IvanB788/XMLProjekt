@@ -1,0 +1,43 @@
+@font-face {
+    font-family: AngerStyles;
+    src: url(font/AngerStyles.ttf);
+    src: url(font/WrathStyles.ttf);
+}
+body{
+    margin: 0 auto;
+    font-family: AngerStyles;
+    font-size: 25px;
+    background-image: linear-gradient(to right, #9796f0 , #fbc7d4);
+    text-align: center;
+}
+table{
+    margin: auto;
+    background-color: #fbc7d4;
+    width: 500px;
+    padding: 50px;
+}
+th{
+    text-align: center;
+}
+.back{
+    margin: 0 auto;
+    width: 1200px;
+    height: 600px;
+    margin-top: 90px;
+    padding: 100px;
+    background-image: url(slike/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+input[type=submit]{
+    background-color: #c75ba3;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+input:hover[type=submit]{
+    background-color: #8c1565;
+}
